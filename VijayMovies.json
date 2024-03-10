@@ -1,0 +1,412 @@
+{
+  "vijay_movies": [
+    {
+      "year": "1984",
+      "title": "Vetri",
+      "roles": ["Vijay"],
+      "notes": "Child artist",
+      "ref": "[1]"
+    },
+    {
+      "year": "1984",
+      "title": "Kudumbam",
+      "roles": ["Narada"],
+      "notes": "Child artist",
+      "ref": "[1]"
+    },
+    {
+      "year": "1985",
+      "title": "Naan Sigappu Manithan",
+      "roles": ["Himself"],
+      "notes": "Cameo intro song appearance as a child artist",
+      "ref": "[1]"
+    },
+    {
+      "year": "1986",
+      "title": "Vasantha Raagam",
+      "roles": ["Vijay"],
+      "notes": "Uncredited role as a child artist",
+      "ref": "[1]"
+    },
+    {
+      "year": "1987",
+      "title": "Sattam Oru Vilaiyattu",
+      "roles": ["Raja"],
+      "notes": "Child artist",
+      "ref": "[1]"
+    },
+    {
+      "year": "1988",
+      "title": "Ithu Engal Neethi",
+      "roles": ["Vijay"],
+      "notes": "Uncredited role as a child artist",
+      "ref": "[59]"
+    },
+    {
+      "year": "1992",
+      "title": "Naalaiya Theerpu",
+      "roles": ["Vijay"]
+    },
+    {
+      "year": "1993",
+      "title": "Senthoorapandi",
+      "roles": ["Vijay"],
+      "ref": "[3]"
+    },
+    {
+      "year": "1994",
+      "title": "Rasigan",
+      "roles": ["Vijay"]
+    },
+    {
+      "year": "1995",
+      "title": "Deva",
+      "roles": ["Deva"],
+      "ref": "[3]"
+    },
+    {
+      "year": "1995",
+      "title": "Rajavin Parvaiyile",
+      "roles": ["Raja"]
+    },
+    {
+      "year": "1995",
+      "title": "Vishnu",
+      "roles": ["Vishnu (Krishna)"],
+      "ref": "[64]"
+    },
+    {
+      "year": "1995",
+      "title": "Chandralekha",
+      "roles": ["Rahim Rowther"],
+      "ref": "[65]"
+    },
+    {
+      "year": "1996",
+      "title": "Coimbatore Mappillai",
+      "roles": ["Balu"]
+    },
+    {
+      "year": "1996",
+      "title": "Poove Unakkaga",
+      "roles": ["Raja"]
+    },
+    {
+      "year": "1996",
+      "title": "Vasantha Vaasal",
+      "roles": ["Vijay"]
+    },
+    {
+      "year": "1996",
+      "title": "Maanbumigu Maanavan",
+      "roles": ["Sivaraj"]
+    },
+    {
+      "year": "1996",
+      "title": "Selva",
+      "roles": ["Selvan"]
+    },
+    {
+      "year": "1997",
+      "title": "Kaalamellam Kaathiruppen",
+      "roles": ["Kannan"]
+    },
+    {
+      "year": "1997",
+      "title": "Love Today",
+      "roles": ["Ganesh"]
+    },
+    {
+      "year": "1997",
+      "title": "Once More",
+      "roles": ["Vijay"]
+    },
+    {
+      "year": "1997",
+      "title": "Nerrukku Ner",
+      "roles": ["Vijay"]
+    },
+    {
+      "year": "1997",
+      "title": "Kadhalukku Mariyadhai",
+      "roles": ["Jeevanandham (Jeeva)"]
+    },
+    {
+      "year": "1998",
+      "title": "Ninaithen Vandhai",
+      "roles": ["Gokulakrishnan"]
+    },
+    {
+      "year": "1998",
+      "title": "Priyamudan",
+      "roles": ["Vasanth"]
+    },
+    {
+      "year": "1998",
+      "title": "Nilaave Vaa",
+      "roles": ["Siluvai"]
+    },
+    {
+      "year": "1999",
+      "title": "Thulladha Manamum Thullum",
+      "roles": ["Kutty"]
+    },
+    {
+      "year": "1999",
+      "title": "Endrendrum Kadhal",
+      "roles": ["Vijay"]
+    },
+    {
+      "year": "1999",
+      "title": "Nenjinile",
+      "roles": ["Karunakaran (Karna)"]
+    },
+    {
+      "year": "1999",
+      "title": "Minsara Kanna",
+      "roles": ["Kannan (Kasi)"]
+    },
+    {
+      "year": "2000",
+      "title": "Kannukkul Nilavu",
+      "roles": ["Gautham Prabhakar"]
+    },
+    {
+      "year": "2000",
+      "title": "Kushi",
+      "roles": ["Shiva"]
+    },
+    {
+      "year": "2000",
+      "title": "Priyamaanavale",
+      "roles": ["Vijay Vishwanathan"]
+    },
+    {
+      "year": "2001",
+      "title": "Friends",
+      "roles": ["Aravindhan"]
+    },
+    {
+      "year": "2001",
+      "title": "Badri",
+      "roles": ["Sri Badrinatha Moorthy (Badri)"]
+    },
+    {
+      "year": "2001",
+      "title": "Shahjahan",
+      "roles": ["Ashok Ilango"]
+    },
+    {
+      "year": "2002",
+      "title": "Thamizhan",
+      "roles": ["Surya"]
+    },
+    {
+      "year": "2002",
+      "title": "Youth",
+      "roles": ["Shiva"]
+    },
+    {
+      "year": "2002",
+      "title": "Bagavathi",
+      "roles": ["Bhagavathi"]
+    },
+    {
+      "year": "2003",
+      "title": "Vaseegara",
+      "roles": ["Boopathi"]
+    },
+    {
+      "year": "2003",
+      "title": "Pudhiya Geethai",
+      "roles": ["Sarathy"]
+    },
+    {
+      "year": "2003",
+      "title": "Thirumalai",
+      "roles": ["Thirumalai"]
+    },
+    {
+      "year": "2004",
+      "title": "Udhaya",
+      "roles": ["Udhayakumaran (Udhaya)"]
+    },
+    {
+      "year": "2004",
+      "title": "Ghilli",
+      "roles": ["Saravanavelu (Velu, Ghilli)"]
+    },
+    {
+      "year": "2004",
+      "title": "Madhurey",
+      "roles": ["Maduravel (Madhurey)"]
+    },
+    {
+      "year": "2005",
+      "title": "Thirupaachi",
+      "roles": ["Sivagiri (Giri)"]
+    },
+    {
+      "year": "2005",
+      "title": "Sukran",
+      "roles": ["Sukran"],
+      "notes": "Extended cameo"
+    },
+    {
+      "year": "2005",
+      "title": "Sachein",
+      "roles": ["Sachein"]
+    },
+    {
+      "year": "2005",
+      "title": "Sivakasi",
+      "roles": ["Muthappa (Sivakasi)"]
+    },
+    {
+      "year": "2006",
+      "title": "Aathi",
+      "roles": ["Aathikesavan"]
+    },
+    {
+      "year": "2007",
+      "title": "Pokkiri",
+      "roles": ["Sathyamoorthy (Thamizh)"]
+    },
+    {
+      "year": "2007",
+      "title": "Azhagiya Tamil Magan",
+      "roles": ["Guru", "Prasad"],
+      "notes": "Dual roles"
+    },
+    {
+      "year": "2008",
+      "title": "Kuruvi",
+      "roles": ["Vetrivel (Velu, Kuruvi)"]
+    },
+    {
+      "year": "2008",
+      "title": "Pandhayam",
+      "roles": ["Himself"],
+      "notes": "Guest appearance"
+    },
+    {
+      "year": "2009",
+      "title": "Villu",
+      "roles": ["Pugazh", "Saravanan"],
+      "notes": "Dual roles"
+    },
+    {
+      "year": "2009",
+      "title": "Vettaikaaran",
+      "roles": ["Police Ravi"]
+    },
+    {
+      "year": "2010",
+      "title": "Sura",
+      "roles": ["Sura"],
+      "notes": "50th film"
+    },
+    {
+      "year": "2011",
+      "title": "Kaavalan",
+      "roles": ["Bhoominathan (Bhoomi)"]
+    },
+    {
+      "year": "2011",
+      "title": "Velayudham",
+      "roles": ["Velu (Velayudham)"]
+    },
+    {
+      "year": "2012",
+      "title": "Nanban",
+      "roles": ["Kosaksi Pasapugazh (Panchavan Parivendan)"],
+      "notes": "Dual roles"
+    },
+    {
+      "year": "2012",
+      "title": "Rowdy Rathore",
+      "roles": ["Himself"],
+      "notes": "Hindi film; Guest appearance in the song 'Chinta Ta'"
+    },
+    {
+      "year": "2012",
+      "title": "Thuppakki",
+      "roles": ["Jagadish Dhanapal"]
+    },
+    {
+      "year": "2013",
+      "title": "Thalaivaa",
+      "roles": ["Vishwa Ramadorai (Vishwa Bhai)"]
+    },
+    {
+      "year": "2014",
+      "title": "Jilla",
+      "roles": ["Shakthi Aarumugam (Jilla)"]
+    },
+    {
+      "year": "2014",
+      "title": "Kaththi",
+      "roles": ["Kathiresan", "Jeevanandham"],
+      "notes": "Dual roles"
+    },
+    {
+      "year": "2015",
+      "title": "Puli",
+      "roles": ["Marudheeran", "Pulivendhan"],
+      "notes": "Dual roles"
+    },
+    {
+      "year": "2016",
+      "title": "Theri",
+      "roles": ["Vijay Kumar (Joseph Kuruvilla, Dharmeshwar)"],
+      "notes": "Triple roles"
+    },
+    {
+      "year": "2017",
+      "title": "Bairavaa",
+      "roles": ["Bairavaa"]
+    },
+    {
+      "year": "2017",
+      "title": "Mersal",
+      "roles": ["Vetri", "Maaran", "Vetrimaaran"],
+      "notes": "Triple roles"
+    },
+    {
+      "year": "2018",
+      "title": "Sarkar",
+      "roles": ["Sundar Ramaswamy"]
+    },
+    {
+      "year": "2019",
+      "title": "Bigil",
+      "roles": ["Michael Rayappan", "Rayappan"]
+    },
+    {
+      "year": "2021",
+      "title": "Master",
+      "roles": ["John 'JD' Durairaj"]
+    },
+    {
+      "year": "2022",
+      "title": "Beast",
+      "roles": ["Veera Raghavan"]
+    },
+    {
+      "year": "2023",
+      "title": "Varisu",
+      "roles": ["Vijay Rajendran"]
+    },
+    {
+      "year": "2023",
+      "title": "Leo",
+      "roles": ["Parthiban (Leo Das)"]
+    },
+    {
+      "year": "2024",
+      "title": "The Greatest of All Time",
+      "roles": [],
+      "notes": "†"
+    }
+  ]
+}
