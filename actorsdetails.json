@@ -1,0 +1,49 @@
+{
+    "maleactors": [
+      {
+        "name": "vijay",
+        "age": "57",
+        "networth": "500C",
+        "movies": [
+          {
+            "moviename": "thupakki",
+            "verdict": "Blockbuster",
+            "collection": "150C"
+          },
+          {
+            "moviename": "leo",
+            "verdict": "mega Block buster",
+            "collection": "500C"
+          }
+        ]
+      },
+      {
+        "name": "ajith",
+        "age": 58,
+        "networth": "400C",
+        "movies": [
+          {
+            "moviename": "veram",
+            "verdict": "Blockbuster",
+            "collection": "150C"
+          },
+          {
+            "moviename": "thunivu",
+            "verdict": "mega Block buster",
+            "collection": "300C"
+          }
+        ]
+      }
+    ],
+    "femaleactors": [
+      {
+        "name": "trisha",
+        "age":"30"
+      },
+      {
+        "name": "priyankamohan",
+        "age":28
+      }
+    ]
+  }
+  
