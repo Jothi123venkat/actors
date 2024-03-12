@@ -1,0 +1,24 @@
+{
+    "ActorsImages":[
+        {
+            "id":1,
+            "Name":"Vijay",
+            "imageURL":"https://4.bp.blogspot.com/-osKNg3_PSpI/XLiFeRYMFBI/AAAAAAAAnog/AlexEaM-VBcCIp6PlR1Lbed2Rms1Mr0uQCLcBGAs/s1600/Vijay-HD-Wallpapers-12.jpg"
+        },
+        {
+            "id":2,
+            "Name":"rajini",
+            "imageURL":"https://wallpaperaccess.com/full/2761326.jpg"
+        },
+        {
+            "id":3,
+            "Name":"Kamal",
+            "imageURL":"https://filmfare.wwmindia.com/content/2021/apr/kamalhaasan11617694564.jpg"
+        },
+        {
+            "id":4,
+            "Name":"ajith",
+            "imageURL":"https://images.mubicdn.net/images/cast_member/31053/cache-207708-1489464229/image-w856.jpg"
+        }
+    ]
+}
